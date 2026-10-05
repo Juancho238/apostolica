@@ -1,0 +1,1919 @@
+[
+  {
+    "name": "Pardo, Paola Andrea",
+    "institute": "IBAA",
+    "graduation_year": 2024,
+    "document_number": "22949990",
+    "average": 9.7,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2024/PardoPaolaAndrea.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Pera, Ramon Antonio",
+    "institute": "IBAA",
+    "graduation_year": 2024,
+    "document_number": "23236370",
+    "average": 7.32,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2024/PeraRamonAntonio.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Almirón, Félix Alberto",
+    "institute": "IBAA",
+    "graduation_year": 2024,
+    "document_number": "24387639",
+    "average": 7.99,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2024/AlmironFelixAlberto.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Santacroce, Gabriela Inés",
+    "institute": "IBAA",
+    "graduation_year": 2024,
+    "document_number": "26075895",
+    "average": 9.43,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2024/SantacroceGabrielaInes.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Mendez, Marcela",
+    "institute": "IBAA",
+    "graduation_year": 2024,
+    "document_number": "31387401",
+    "average": 8.87,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2024/MendezMarcela.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Córdoba, Cesar Hernan Horacio",
+    "institute": "IBAA",
+    "graduation_year": 2024,
+    "document_number": "31426306",
+    "average": 9.33,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2024/CordobaCesarHernanHoracio.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Córdoba, Cesar Hernán Horacio",
+    "institute": "IBAA",
+    "graduation_year": 2024,
+    "document_number": "31426306",
+    "average": 9.37,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2024/CordobaCesarHernanHoracio.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Dominguez, Daniel Alberto",
+    "institute": "IBAA",
+    "graduation_year": 2024,
+    "document_number": "33288261",
+    "average": 7.81,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2024/DominguezDanielAlberto.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Quiroga, Marisel",
+    "institute": "IBAA",
+    "graduation_year": 2024,
+    "document_number": "33564636",
+    "average": 8.72,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2024/QuirogaMarisel.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Cardozo, Mariela Belen",
+    "institute": "IBAA",
+    "graduation_year": 2024,
+    "document_number": "33911650",
+    "average": 9.65,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2024/CardozoMarielaBelen.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Barrionuevo, Matias",
+    "institute": "IBAA",
+    "graduation_year": 2024,
+    "document_number": "35268595",
+    "average": 8.23,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2024/BarrionuevoMatias.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Ponce, Eliseo Ismael",
+    "institute": "IBAA",
+    "graduation_year": 2024,
+    "document_number": "36136812",
+    "average": null,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2024/PonceEliseoIsmael.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Frias, Yesica",
+    "institute": "IBAA",
+    "graduation_year": 2024,
+    "document_number": "36883658",
+    "average": 8.61,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2024/FriasYesica.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Mamani Gonzales, Mabel",
+    "institute": "IBAA",
+    "graduation_year": 2024,
+    "document_number": "37782738",
+    "average": 7.99,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2024/MamaniGonzalesMabel.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Aranda, Evelyn Rocio",
+    "institute": "IBAA",
+    "graduation_year": 2024,
+    "document_number": "44595310",
+    "average": 8.99,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2024/ArandaEvelynRocio.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Ochoa, Nicolás",
+    "institute": "IBAA",
+    "graduation_year": 2024,
+    "document_number": "45239768",
+    "average": 8.41,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2024/OchoaNicolas.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Gonzalez, Emanuel",
+    "institute": "IBAA",
+    "graduation_year": 2024,
+    "document_number": "45431456",
+    "average": 7.77,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2024/GonzalezEmanuel.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Meneses, Julieta",
+    "institute": "IBAA",
+    "graduation_year": 2024,
+    "document_number": "52864444",
+    "average": null,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2024/MenesesJulieta.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Alonso, Daniel",
+    "institute": "IBAA",
+    "graduation_year": 2024,
+    "document_number": "92421723",
+    "average": 8.0,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2024/AlonsoDaniel.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Leiva, Milton",
+    "institute": "IBAA",
+    "graduation_year": 2024,
+    "document_number": "93653488",
+    "average": 8.7,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2024/LeivaMilton.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Miranda López, Yhamil Gerardo",
+    "institute": "IBAA",
+    "graduation_year": 2024,
+    "document_number": "94177516",
+    "average": 7.84,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2024/MirandaLopezYhamilGerardo.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Almirón, Cesar Emanuel",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "33563504",
+    "average": 8.57,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/AlmironCesarEmanuel.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Alvarado, Richard Orlando",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "7481815",
+    "average": 8.68,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/AlvaradoRichardOrlando.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Arias, Nicolás",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "43671303",
+    "average": 9.51,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/AriasNicolas.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Ávalos, Sebastián",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "40714734",
+    "average": 7.73,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/AvalosSebastian.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Barrios, Verónica Argentina",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "23563435",
+    "average": 8.31,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/BarriosVeronicaArgentina.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Benítez, Silvana Catalina",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "27738291",
+    "average": 8.74,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/BenitezSilvanaCatalina.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Blanco, Toribia",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "23400312",
+    "average": 8.52,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/BlancoToribia.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Cabrera, Rocío del Alba",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "4496628",
+    "average": 8.6,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/CabreraRociodelAlba.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Calderón, Vicente",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "95254552",
+    "average": 8.05,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/CalderonVicente.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Fernández, Elizabeth",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "95798235",
+    "average": 8.65,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/FernandezElizabeth.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Flores Mayta, Beatriz",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "93114629",
+    "average": 7.63,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/FloresMaytaBeatriz.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Flores Mayta, Nieves",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "94448055",
+    "average": 7.71,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/FloresMaytaNieves.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Franco Duré, Cristian",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "93795526",
+    "average": 8.47,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/FrancoDureCristian.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Galeano, Hugo Daniel",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "25162656",
+    "average": 9.53,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/GaleanoHugoDaniel.pdf",
+    "status": "published"
+  },
+  {
+    "name": "García, Angel",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "41585491",
+    "average": 7.98,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/GarciaAngel.pdf",
+    "status": "published"
+  },
+  {
+    "name": "García, Rocío Camila",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "43260319",
+    "average": 8.84,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/GarciaRocioCamila.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Ibarra Aguilar, Grover",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "95869541",
+    "average": 8.79,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/IbarraAguilarGrover.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Kaiserián, Marcelo Alejandro",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "18032953",
+    "average": null,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/KaiserianMarceloAlejandro.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Leguiza, Mónica Alejandra",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "23722482",
+    "average": 9.29,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/LeguizaMonicaAlejandra.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Luna, Nicolás David",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "40550762",
+    "average": 9.29,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/LunaNicolasDavid.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Oruño Ortiz, Geronimo",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "95787014",
+    "average": 8.26,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/OruñoOrtizGeronimo.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Pais, Rogelio Adalberto",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "25488573",
+    "average": 7.85,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/PaisRogelioAdalberto.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Ramírez, Mario Oscar",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "17753641",
+    "average": 7.6,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/RamirezMarioOscar.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Romero, Brandon",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "43598339",
+    "average": 9.6,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/RomeroBrandon.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Salinas, Diego Hernán",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "22506979",
+    "average": 8.87,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/SalinasDiegoHernan.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Sassano, Alan David",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "43181854",
+    "average": 8.4,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/SassanoAlanDavid.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Sayavedra, Diego Hernán",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "28170182",
+    "average": 7.71,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/SayavedraDiegoHernan.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Vargas, Miguel",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "44132899",
+    "average": 8.31,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/VargasMiguel.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Villalba, Erica Ludmila",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "45152624",
+    "average": 8.21,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/VillalbaEricaLudmila.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Bernardo, Devora",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "27375770",
+    "average": 9.52,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/BernardoDevora.pdf",
+    "status": "published"
+  },
+  {
+    "name": "González, Omar",
+    "institute": "IBAA",
+    "graduation_year": 2020,
+    "document_number": "27604507",
+    "average": 9.58,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2020/GonzalezOmar.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Achu, Rafael Leonardo",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "29843408",
+    "average": 8.3,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/AchuRafaelLeonardo.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Almirón, Juan Edgardo",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "31627266",
+    "average": 8.12,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/AlmironJuanEdgardo.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Alvarado, Magali",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "95254554",
+    "average": 7.91,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/AlvaradoMagali.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Alvarado, María Rosa",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "17.145.033",
+    "average": 8.58,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/AlvaradoMariaRosa.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Anaya, Génesis",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "41551525",
+    "average": 8.67,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/AnayaGenesis.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Arnedo, Daniela Johanna",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "34.151.517",
+    "average": 9.63,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/ArnedoDanielaJohanna.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Baquines, Carlos Maximiliano",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "40.258.030",
+    "average": 9.51,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/BaquinesCarlosMaximiliano.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Barrionuevo, Carla gisela",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "33.932.509",
+    "average": 8.03,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/BarrionuevoCarlagisela.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Bazan, Martin",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "23921454",
+    "average": 9.5,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/BazanMartin.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Bernardo, Marina",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "27.861.749",
+    "average": 8.53,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/BernardoMarina.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Cañete, Javier",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "23085761",
+    "average": 8.77,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/CañeteJavier.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Capaldo, Viviana",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "22724572",
+    "average": 9.24,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/CapaldoViviana.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Cazon, Fabiana",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "18.419.619",
+    "average": 8.34,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/CazonFabiana.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Cisterna, Marina Rosa",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "6354310",
+    "average": 8.67,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/CisternaMarinaRosa.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Condori Vela, Elizabeth",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "94.748.343",
+    "average": 8.77,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/CondoriVelaElizabeth.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Diaz, Eva Mercedes",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "17.271.915",
+    "average": 7.48,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/DiazEvaMercedes.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Escobar, Marcelo",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "32610977",
+    "average": 8.41,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/EscobarMarcelo.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Fernandez, Alejandro",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "30290022",
+    "average": 7.93,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/FernandezAlejandro.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Fernandez, Daniel",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "37428264",
+    "average": 9.07,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/FernandezDaniel.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Fleitas , Eva",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "11820466",
+    "average": 7.6,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/FleitasEva.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Fols, Julián Andrés",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "44795614",
+    "average": 9.8,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/FolsJulianAndres.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Frischeisein, Carlos Luis",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "27837705",
+    "average": 9.21,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/FrischeiseinCarlosLuis.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Galarza, Natalia",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "30262981",
+    "average": 7.99,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/GalarzaNatalia.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Galeano, Irrita",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "18005563",
+    "average": 8.17,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/GaleanoIrrita.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Galeano, Nadia Ludmila",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "43.265.085",
+    "average": 9.71,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/GaleanoNadiaLudmila.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Galeano, Nicolas Miguel",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "32.755.364",
+    "average": 9.19,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/GaleanoNicolasMiguel.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Garcia , Santiago Eduardo",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "22646444",
+    "average": 9.03,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/GarciaSantiagoEduardo.pdf",
+    "status": "published"
+  },
+  {
+    "name": "García Bello, Lorena Mariana",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "24784154",
+    "average": 10.0,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/GarciaBelloLorenaMariana.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Gauna, Gabriel Agustin",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "40715869",
+    "average": 8.55,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/GaunaGabrielAgustin.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Golart, Facundo Valmor",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "33441885",
+    "average": 8.36,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/GolartFacundoValmor.pdf",
+    "status": "published"
+  },
+  {
+    "name": "González, Milagros",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "44.214.013",
+    "average": 9.04,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/GonzalezMilagros.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Hañ, Ana Isabel",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "17137701",
+    "average": 9.77,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/HañAnaIsabel.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Hañ, Gladys Susana",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "17824008",
+    "average": 9.7,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/HañGladysSusana.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Hilari castillo, Jaime",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "94492850",
+    "average": 7.57,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/HilaricastilloJaime.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Indartt, Romina",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "37.968.457",
+    "average": 9.75,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/IndarttRomina.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Iriarte, Nelida",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "29366140",
+    "average": 9.47,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/IriarteNelida.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Jimenez, Esther del Valle",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "20.368.731",
+    "average": 9.41,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/JimenezEstherdelValle.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Kaiserian, Débora",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "41551460",
+    "average": 9.56,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/KaiserianDebora.pdf",
+    "status": "published"
+  },
+  {
+    "name": "López, Johana",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "38577635",
+    "average": 9.19,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/LopezJohana.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Machado, Myriam Adelma",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "22466901",
+    "average": 8.46,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/MachadoMyriamAdelma.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Mansilla, Stella Maris",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "26.762.512",
+    "average": 8.85,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/MansillaStellaMaris.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Medina, Gabriela",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "22824797",
+    "average": 8.83,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/MedinaGabriela.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Méndez, Ignacia Ramona",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "17.711.969",
+    "average": 8.76,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/MendezIgnaciaRamona.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Miranda, Nora isabel",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "24.895.184",
+    "average": 7.8,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/MirandaNoraisabel.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Molinas, Maribel",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "16751040",
+    "average": null,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/MolinasMaribel.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Morales, Maria Florencia",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "38989367",
+    "average": 8.72,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/MoralesMariaFlorencia.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Moreira, Juan Cruz",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "26819609",
+    "average": 8.72,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/MoreiraJuanCruz.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Musacchio, Juan Carlos (IBAA)",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "16751040",
+    "average": null,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/MusacchioJuanCarlos_IBAA.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Musacchio, Juan Carlos (IFMA)",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "16751040",
+    "average": 8.45,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/MusacchioJuanCarlos_IBAA.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Nuñez, Carolina",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "36473205",
+    "average": 8.67,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/NuñezCarolina.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Ormeño, Graciela",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "18.651.427",
+    "average": 7.62,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/OrmeñoGraciela.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Paredes, Clara",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "17251413",
+    "average": 8.02,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/ParedesClara.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Ramirez , Paula",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "13686178",
+    "average": 8.7,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/RamirezPaula.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Rosano, Antonio",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "92854931",
+    "average": 9.24,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/RosanoAntonio.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Saucedo, Lorena",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "27356159",
+    "average": 8.81,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/SaucedoLorena.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Sosa, Mayra",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "36901737",
+    "average": 8.7,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/SosaMayra.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Vazquez , Horacio",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "17675213",
+    "average": 8.09,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/VazquezHoracio.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Velozo, Melina",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "33.842.416",
+    "average": 9.02,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/VelozoMelina.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Zalazar , Cesar",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "27935559",
+    "average": 8.1,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/ZalazarCesar.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Zalazar, Sandra Noemi",
+    "institute": "IBAA / IFMA",
+    "graduation_year": 2021,
+    "document_number": "22267257",
+    "average": 9.86,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2021/ZalazarSandraNoemi.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Almazan, Macimiliano",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "95215690",
+    "average": 8.3,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/AlmazanMacimiliano.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Ayala, Alicia Noemi",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "31972431",
+    "average": 7.26,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/AyalaAliciaNoemi.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Ayala, Mario Alberto",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "27397450",
+    "average": 7.22,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/AyalaMarioAlberto.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Banegas, Griselda",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "20783725",
+    "average": 8.4,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/BanegasGriselda.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Banegas, Maria Cristina",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "21397418",
+    "average": 8.62,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/BanegasMariaCristina.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Caro, Claudia",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "22256147",
+    "average": 8.06,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/CaroClaudia.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Castillo, Silvia Bibiana",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "30020476",
+    "average": 8.56,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/CastilloSilviaBibiana.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Cordoba, Francisco Eduardo",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "8489946",
+    "average": 8.04,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/CordobaFranciscoEduardo.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Cordova Martinez, Policario",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "94314375",
+    "average": 7.44,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/CordovaMartinezPolicario.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Díaz, Noelia Alejandra",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "33091308",
+    "average": 9.92,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/DiazNoeliaAlejandra.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Fernández , Edgar Fabian",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "33443169",
+    "average": 8.76,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/FernandezEdgarFabian.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Flores, Sandra Karina",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "21933264",
+    "average": 8.2,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/FloresSandraKarina.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Flores , Brian",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "38048799",
+    "average": 7.79,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/FloresBrian.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Gallardo, Nelson",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "30910482",
+    "average": 8.59,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/GallardoNelson.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Godoy, Maria Celeste",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "37183277",
+    "average": 8.87,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/GodoyMariaCeleste.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Gomez, Diego",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "32322201",
+    "average": 7.71,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/GomezDiego.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Hegele, Nicolás",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "26100275",
+    "average": 8.8,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/HegeleNicolas.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Indartt, Karina",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "33835299",
+    "average": 9.12,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/IndarttKarina.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Lovato, Ayelen",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "39561918",
+    "average": 9.28,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/LovatoAyelen.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Monzón, Federico",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "33855068",
+    "average": 8.87,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/MonzonFederico.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Navarro, Beatriz",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "16087681",
+    "average": 8.42,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/NavarroBeatriz.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Ocampo, Nadia",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "30462579",
+    "average": 9.03,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/OcampoNadia.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Olivarez, Yesica",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "36761655",
+    "average": 7.48,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/OlivarezYesica.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Ovando, Deifilia",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "94654468",
+    "average": 8.52,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/OvandoDeifilia.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Parrisius, Teresa",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "21602632",
+    "average": 8.31,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/ParrisiusTeresa.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Pereyra, Víctor Hugo",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "10596075",
+    "average": 8.01,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/PereyraVictorHugo.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Perez, Stefani Yanet",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "35402196",
+    "average": 9.14,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/PerezStefaniYanet.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Purelo, Marisa Angélica",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "18087463",
+    "average": 8.62,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/PureloMarisaAngelica.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Ranea, Raul Alejandro",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "24091550",
+    "average": 9.33,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/RaneaRaulAlejandro.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Robles Vega, Dámaris Micaela",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "45481346",
+    "average": 9.21,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/RoblesVegaDamarisMicaela.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Rolli, Juan Eduardo",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "25228006",
+    "average": 8.05,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/RolliJuanEduardo.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Romero, Amanda",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "95251501",
+    "average": 7.84,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/RomeroAmanda.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Ruiz, Diego",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "28457514",
+    "average": 8.37,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/RuizDiego.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Sequeira, Melisa Aylén",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "42110672",
+    "average": 9.17,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/SequeiraMelisaAylen.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Suárez, Ezequiel",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "41234854",
+    "average": 7.89,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/SuarezEzequiel.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Vidaurre Condori, Jessica Joceline",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "94615082",
+    "average": 8.0,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/VidaurreCondoriJessicaJoceline.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Vidaurre Condori, Martha Laura",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "94602721",
+    "average": 8.3,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/VidaurreCondoriMarthaLaura.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Zalazar, Carina Elizabeth",
+    "institute": "IBAA",
+    "graduation_year": 2022,
+    "document_number": "23504219",
+    "average": 9.18,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/ZalazarCarinaElizabeth.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Fernandez, Marcos Juan",
+    "institute": "IBAA-SANJUAN",
+    "graduation_year": 2022,
+    "document_number": "17590131",
+    "average": null,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/FernandezMarcosJuan.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Recupero, Jemina Marilen",
+    "institute": "IBAA-SANJUAN",
+    "graduation_year": 2022,
+    "document_number": "38594399",
+    "average": null,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2022/RecuperoJeminaMarilen.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Aguirre, David Rubén",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "30,576,650",
+    "average": 8.72,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/AguirreDavidRuben.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Aguirre de Sotomayor, Andrea Cecilia",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "31,683,322",
+    "average": 8.79,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/AguirredeSotomayorAndreaCecilia.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Arevalo, Elgar Dario",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "27,993,643",
+    "average": 7.97,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/ArevaloElgarDario.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Arguello, Fernando",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "28,710,309",
+    "average": 8.62,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/ArguelloFernando.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Buschiazzo, Alexis",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "40,734,422",
+    "average": 8.46,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/BuschiazzoAlexis.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Bustamante, Tamara",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "41,166,121",
+    "average": 9.05,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/BustamanteTamara.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Campana, Kevin",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "36,064,555",
+    "average": 7.6,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/CampanaKevin.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Coronel, Daniela Edith",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "35,227,450",
+    "average": 8.35,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/CoronelDanielaEdith.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Cuervo, Julieta",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "45,813,078",
+    "average": 8.24,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/CuervoJulieta.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Escalante, Miguel Ángel",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "30,210,878",
+    "average": 8.99,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/EscalanteMiguelAngel.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Espinoza, Rolando",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "92,934,931",
+    "average": 8.93,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/EspinozaRolando.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Etchegoyen, Analia",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "26,075,968",
+    "average": 7.9,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/EtchegoyenAnalia.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Etchetto, Javier",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "32,404,079",
+    "average": 8.02,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/EtchettoJavier.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Faggiani , Elias",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "40,761,320",
+    "average": 9.2,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/FaggianiElias.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Fernandez, Dario Leonardo",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "41,576,898",
+    "average": 8.18,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/FernandezDarioLeonardo.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Fernandez, Gustavo",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "21,977,561",
+    "average": 8.53,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/FernandezGustavo.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Flores, Juan Carlos",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "93,087,950",
+    "average": 9.55,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/FloresJuanCarlos.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Fols, Belén Daiana",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "46,687,164",
+    "average": 8.86,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/FolsBelenDaiana.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Galeano, Leila",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "46,274,197",
+    "average": 9.01,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/GaleanoLeila.pdf",
+    "status": "published"
+  },
+  {
+    "name": "García, Melina",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "39,280,478",
+    "average": 7.94,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/GarciaMelina.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Geijo, Fernando Ariel",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "28,753,496",
+    "average": 7.52,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/GeijoFernandoAriel.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Geller, Matias",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "44,451,279",
+    "average": 8.4,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/GellerMatias.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Gomez Romero, Ruben Marcelo",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "92,869,425",
+    "average": 9.73,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/GomezRomeroRubenMarcelo.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Lesme, Gabriel",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "33,028,488",
+    "average": 9.15,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/LesmeGabriel.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Lezcano, Rosana",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "33,878,807",
+    "average": 8.77,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/LezcanoRosana.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Meza, Vladimir",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "37,043,229",
+    "average": 9.31,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/MezaVladimir.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Naddeo, Cristina",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "16,913,437",
+    "average": 9.45,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/NaddeoCristina.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Portel, Roxana Andrea",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "31,808,455",
+    "average": 9.11,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/PortelRoxanaAndrea.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Quiñones Ferrer, Nataly Milagros",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "95,304,094",
+    "average": 8.63,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/QuiñonesFerrerNatalyMilagros.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Rengifo, Daniela Melina",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "37,662,000",
+    "average": 8.56,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/RengifoDanielaMelina.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Rengifo, Elva Alicia",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "25,458,323",
+    "average": 8.18,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/RengifoElvaAlicia.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Risso, Leonardo Miguel",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "27,933,445",
+    "average": 8.3,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/RissoLeonardoMiguel.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Romano, Mariela Virginia",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "31,296,474",
+    "average": 8.67,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/RomanoMarielaVirginia.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Rosano, Lucas Andres",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "43,509,600",
+    "average": 7.73,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/RosanoLucasAndres.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Rosano Gutierrez, Alcides Ramon",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "92,452,507",
+    "average": 8.2,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/RosanoGutierrezAlcidesRamon.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Rovelli, Walter",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "28,189,001",
+    "average": 7.76,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/RovelliWalter.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Ruiz Diaz, Sofia",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "45,070,995",
+    "average": 8.8,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/RuizDiazSofia.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Ruiz Díaz, Hector Ignacio",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "18,319,802",
+    "average": 8.25,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/RuizDiazHectorIgnacio.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Santa Cruz, Ezequiel",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "18,867,726",
+    "average": 8.06,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/SantaCruzEzequiel.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Scenati, Virginia",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "25,734,257",
+    "average": 8.04,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/ScenatiVirginia.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Serrano, Nidia Ester",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "21,624,333",
+    "average": 9.02,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/SerranoNidiaEster.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Sotomayor, Emilia",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "32,742,801",
+    "average": 8.53,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/SotomayorEmilia.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Talavera, David",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "34,795,634",
+    "average": 8.59,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/TalaveraDavid.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Toloza, Verónica",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "29,470,189",
+    "average": 8.92,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/TolozaVeronica.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Vidal Vega, Katherine Daiana",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "39,279,228",
+    "average": 9.0,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/VidalVegaKatherineDaiana.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Zalazar, Gisela",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "27,825,213",
+    "average": 9.74,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/ZalazarGisela.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Almiron, César Emanuel",
+    "institute": "IFMA",
+    "graduation_year": 2023,
+    "document_number": "33,563,504",
+    "average": 8.35,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/AlmironCesarEmanuel.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Baquines , Carlos Maximiliano",
+    "institute": "IFMA",
+    "graduation_year": 2023,
+    "document_number": "40,258,030",
+    "average": 8.35,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/BaquinesCarlosMaximiliano.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Barrionuevo, Carla Gisela",
+    "institute": "IFMA",
+    "graduation_year": 2023,
+    "document_number": "33,932,509",
+    "average": 8.42,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/BarrionuevoCarlaGisela.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Brittez, Juan Francisco",
+    "institute": "IFMA",
+    "graduation_year": 2023,
+    "document_number": "31,891,181",
+    "average": 7.68,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/BrittezJuanFrancisco.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Cisterna, Marina Rosa",
+    "institute": "IFMA",
+    "graduation_year": 2023,
+    "document_number": "6,354,310",
+    "average": 8.5,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/CisternaMarinaRosa.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Galeano, Gabriela Elisa",
+    "institute": "IFMA",
+    "graduation_year": 2023,
+    "document_number": "32,213,128",
+    "average": 8.61,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/GaleanoGabrielaElisa.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Garcia Bello, Lorena",
+    "institute": "IFMA",
+    "graduation_year": 2023,
+    "document_number": "24,784,154",
+    "average": 7.68,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/GarciaBelloLorena.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Mendieta, Claudio",
+    "institute": "IFMA",
+    "graduation_year": 2023,
+    "document_number": "26,292,199",
+    "average": 7.6,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/MendietaClaudio.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Molinas, Maribel",
+    "institute": "IFMA",
+    "graduation_year": 2023,
+    "document_number": "94,232,939",
+    "average": 9.04,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/MolinasMaribel.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Olsson, Eduardo Maximiliano",
+    "institute": "IFMA",
+    "graduation_year": 2023,
+    "document_number": "22,148,438",
+    "average": 8.05,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/OlssonEduardoMaximiliano.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Oruño Ortiz, Gerónimo",
+    "institute": "IFMA",
+    "graduation_year": 2023,
+    "document_number": "95,787,014",
+    "average": 8.59,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/OruñoOrtizGeronimo.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Romero, Brandon Javier",
+    "institute": "IFMA",
+    "graduation_year": 2023,
+    "document_number": "43,598,339",
+    "average": 9.43,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/RomeroBrandonJavier.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Serrano, Susana Beatriz",
+    "institute": "IFMA",
+    "graduation_year": 2023,
+    "document_number": "24,113,180",
+    "average": 7.9,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/SerranoSusanaBeatriz.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Zalazar, Sandra Noemi",
+    "institute": "IFMA",
+    "graduation_year": 2023,
+    "document_number": "22,267,257",
+    "average": 9.1,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/ZalazarSandraNoemi.pdf",
+    "status": "published"
+  },
+  {
+    "name": "Zurita, Alejandro David",
+    "institute": "IBAA",
+    "graduation_year": 2023,
+    "document_number": "29,194,359",
+    "average": 7.69,
+    "certificate_url": "https://apostolica.com.ar/IBAADoc/2023/ZuritaAlejandroDavid.pdf",
+    "status": "published"
+  }
+]

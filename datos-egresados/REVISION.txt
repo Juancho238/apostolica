@@ -1,0 +1,14 @@
+2024: 21 egresados; 0 filas vacías omitidas.
+2020: 31 egresados; 0 filas vacías omitidas.
+2021: 60 egresados; 1 filas vacías omitidas.
+2022: 40 egresados; 0 filas vacías omitidas.
+2023: 61 egresados; 0 filas vacías omitidas.
+2020: Kaiserián, Marcelo Alejandro: promedio original 88; se importa sin promedio hasta confirmar el valor correcto.
+
+Total: 213 registros.
+2021 no especifica instituto por alumno: se conserva como IBAA / IFMA.
+Posibles duplicados por DNI y año (se conservan para revisión):
+2024 | Córdoba, Cesar Hernan Horacio | promedio 9.33
+2024 | Córdoba, Cesar Hernán Horacio | promedio 9.37
+2021 | Musacchio, Juan Carlos (IBAA) | promedio None
+2021 | Musacchio, Juan Carlos (IFMA) | promedio 8.45

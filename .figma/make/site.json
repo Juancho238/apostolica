@@ -1,0 +1,10 @@
+{
+  "description": "Offers a private CRM-style platform to securely upload and manage website content with custom images and copy tailored to your style.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

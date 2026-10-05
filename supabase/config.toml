@@ -1,0 +1,5 @@
+[functions.asamblea-commerce]
+verify_jwt = false
+
+[functions.ibaa-graduates]
+verify_jwt = false
