@@ -5,7 +5,7 @@ import Footer from '../components/Footer';
 import { ARTICLES, SERMONS } from '../data/content';
 import imageHero from '../assets/images/Hero-Home-1.webp';
 import ibaa from '../assets/images/Ibaa-principal.webp';
-import nuestraHistoria from '../../dist/assets/images/hero-1024x683.webp';
+import nuestraHistoria from '../assets/images/hero-1024x683.webp';
 
 export default function Home() {
   const latestArticles = ARTICLES.slice(0, 3);
