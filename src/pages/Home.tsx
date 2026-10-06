@@ -20,6 +20,7 @@ export default function Home() {
       <section className="relative min-h-[520px] object-cover flex items-center overflow-hidden bg-navy-dark" style={{ backgroundImage: `url(${imageHero})`, backgroundSize: 'cover', backgroundPosition: 'center', paddingBottom: '50px' }}>
         <img
           src={imageHero}
+          content-type="image/webp"
           alt="Persona en la cima de una montaña al atardecer"
           className="absolute inset-0 w-full h-full object-cover opacity-35"
         />
@@ -99,6 +100,7 @@ export default function Home() {
         <div className="relative">
           <img
             src={nuestraHistoria}
+            content-type="image/webp"
             alt="Asamblea de adoración"
             className="w-full rounded-2xl object-cover h-80"
           />
