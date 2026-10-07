@@ -1,3 +1,4 @@
+import Reveal from '../components/Reveal';
 import { useParams, Link } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
@@ -33,7 +34,7 @@ export default function BlogPost() {
       <Navbar />
 
       {/* Hero */}
-      <section className="relative min-h-[260px] flex items-end bg-navy-dark overflow-hidden">
+      <Reveal className="relative min-h-[260px] flex items-end bg-navy-dark overflow-hidden">
         <img
           src={article.image}
           alt={article.title}
@@ -61,7 +62,7 @@ export default function BlogPost() {
             <span className="flex items-center gap-1.5">⏱ {article.readTime} min de lectura</span>
           </div>
         </div>
-      </section>
+      </Reveal>
 
       {/* Content */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 py-10 grid lg:grid-cols-3 gap-10 w-full">
@@ -168,7 +169,7 @@ export default function BlogPost() {
       </div>
 
       {/* Related */}
-      <section className="bg-white border-t border-border py-12">
+      <Reveal className="bg-white border-t border-border py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
           <div className="flex items-center justify-between mb-6">
             <h2 className="text-xl font-800 text-navy">Artículos relacionados</h2>
@@ -188,10 +189,10 @@ export default function BlogPost() {
             ))}
           </div>
         </div>
-      </section>
+      </Reveal>
 
       {/* Newsletter */}
-      <section className="py-12 bg-surface border-t border-border">
+      <Reveal className="py-12 bg-surface border-t border-border">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center gap-6">
           <div className="w-14 h-14 rounded-full bg-brand/10 flex items-center justify-center shrink-0">
             <span className="text-2xl">✉️</span>
@@ -212,7 +213,7 @@ export default function BlogPost() {
             </button>
           </div>
         </div>
-      </section>
+      </Reveal>
 
       <Footer />
     </div>

@@ -1,3 +1,4 @@
+import Reveal from '../components/Reveal';
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import Navbar from '../components/Navbar';
@@ -32,7 +33,7 @@ export default function Blog() {
       <Navbar />
 
       {/* Hero */}
-      <section className="relative min-h-[280px] flex items-center bg-navy-dark overflow-hidden">
+      <Reveal className="relative min-h-[280px] flex items-center bg-navy-dark overflow-hidden">
         <img
           src="https://images.unsplash.com/photo-1593485589800-579b43749b15?w=1600&h=500&fit=crop&auto=format"
           alt="Biblia abierta"
@@ -50,10 +51,10 @@ export default function Blog() {
             SABER &nbsp;|&nbsp; CRECER &nbsp;|&nbsp; SERVIR &nbsp;|&nbsp; TRANSFORMAR
           </p>
         </div>
-      </section>
+      </Reveal>
 
       {/* Category tabs */}
-      <section className="bg-white border-b border-border sticky top-[70px] z-40">
+      <Reveal className="bg-white border-b border-border sticky top-[70px] z-40">
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
           <div className="flex items-center gap-1 overflow-x-auto py-3 no-scrollbar">
             {CATEGORIES.map((cat) => (
@@ -77,7 +78,7 @@ export default function Blog() {
             </button>
           </div>
         </div>
-      </section>
+      </Reveal>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 py-10 w-full">
         {/* Featured */}
@@ -111,7 +112,7 @@ export default function Blog() {
             </div>
             <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5 mb-10">
               {rest.map((article) => (
-                <Link key={article.id} to={`/blog/${article.slug}`} className="group bg-white rounded-xl border border-border overflow-hidden hover:shadow-md transition-all">
+                <Link key={article.id} to={`/blog/${article.slug}`} className="group bg-white rounded-xl border border-border overflow-hidden motion-card hover:shadow-md transition-all">
                   <div className="relative h-44 bg-surface overflow-hidden">
                     <img src={article.image} alt={article.title} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" />
                   </div>
@@ -136,7 +137,7 @@ export default function Blog() {
       </div>
 
       {/* Newsletter */}
-      <section className="py-12 bg-surface border-t border-border">
+      <Reveal className="py-12 bg-surface border-t border-border">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center gap-6">
           <div className="w-14 h-14 rounded-full bg-brand/10 flex items-center justify-center shrink-0">
             <span className="text-2xl">✉️</span>
@@ -157,7 +158,7 @@ export default function Blog() {
             </button>
           </div>
         </div>
-      </section>
+      </Reveal>
 
       <Footer />
     </div>

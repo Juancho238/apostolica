@@ -1,3 +1,4 @@
+import Reveal from '../components/Reveal';
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import Navbar from '../components/Navbar';
@@ -22,7 +23,7 @@ export default function Predicaciones() {
       <Navbar />
 
       {/* Hero */}
-      <section className="relative min-h-[260px] flex items-end bg-navy-dark overflow-hidden">
+      <Reveal className="relative min-h-[260px] flex items-end bg-navy-dark overflow-hidden">
         <img
           src="https://images.unsplash.com/photo-1581548708095-7158f2e63857?w=1600&h=500&fit=crop&auto=format"
           alt="Micrófono"
@@ -38,10 +39,10 @@ export default function Predicaciones() {
             SABER &nbsp;|&nbsp; CRECER &nbsp;|&nbsp; SERVIR &nbsp;|&nbsp; TRANSFORMAR
           </p>
         </div>
-      </section>
+      </Reveal>
 
       {/* Filter bar */}
-      <section className="bg-white border-b border-border sticky top-[70px] z-40">
+      <Reveal className="bg-white border-b border-border sticky top-[70px] z-40">
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
           <div className="flex items-center gap-1 overflow-x-auto py-3">
             {SERMON_CATEGORIES.map((cat) => (
@@ -70,7 +71,7 @@ export default function Predicaciones() {
             </div>
           </div>
         </div>
-      </section>
+      </Reveal>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 py-10 w-full">
         {/* Latest sermons */}
@@ -81,7 +82,7 @@ export default function Predicaciones() {
 
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-5 mb-14">
           {filtered.map((sermon) => (
-            <Link key={sermon.id} to={`/predicaciones/${sermon.id}`} className="bg-white rounded-xl border border-border overflow-hidden hover:shadow-md transition-all group block">
+            <Link key={sermon.id} to={`/predicaciones/${sermon.id}`} className="bg-white rounded-xl border border-border overflow-hidden motion-card hover:shadow-md transition-all group block">
               <div className="relative h-44 bg-surface overflow-hidden">
                 <img
                   src={sermon.image}
@@ -131,7 +132,7 @@ export default function Predicaciones() {
             { icon: '📖', label: 'Estudios Bíblicos', desc: 'Profundizá en la Palabra de manera práctica.' },
             { icon: '▶️', label: 'Multimedia', desc: 'Imágenes, presentaciones y más recursos.' },
           ].map((r) => (
-            <Link key={r.label} to={`/recursos?tipo=${encodeURIComponent(r.label)}`} className="bg-white rounded-xl border border-border p-5 text-center flex flex-col items-center gap-2 hover:shadow-md hover:border-brand/30 transition-all">
+            <Link key={r.label} to={`/recursos?tipo=${encodeURIComponent(r.label)}`} className="bg-white rounded-xl border border-border p-5 text-center flex flex-col items-center gap-2 motion-card hover:shadow-md hover:border-brand/30 transition-all">
               <span className="text-3xl">{r.icon}</span>
               <h4 className="font-700 text-navy text-[13px]">{r.label}</h4>
               <p className="text-muted text-[11px] leading-relaxed">{r.desc}</p>
@@ -142,7 +143,7 @@ export default function Predicaciones() {
       </div>
 
       {/* Newsletter */}
-      <section className="py-12 bg-surface border-t border-border">
+      <Reveal className="py-12 bg-surface border-t border-border">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center gap-6">
           <div className="w-14 h-14 rounded-full bg-brand/10 flex items-center justify-center shrink-0">
             <span className="text-2xl">✉️</span>
@@ -163,7 +164,7 @@ export default function Predicaciones() {
             </button>
           </div>
         </div>
-      </section>
+      </Reveal>
 
       <Footer />
     </div>

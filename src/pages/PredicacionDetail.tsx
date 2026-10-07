@@ -1,3 +1,4 @@
+import Reveal from '../components/Reveal';
 import { useParams, Link } from 'react-router-dom';
 import type { Sermon } from '../data/content';
 import Navbar from '../components/Navbar';
@@ -28,7 +29,7 @@ export default function PredicacionDetail() {
       <Navbar />
 
       {/* Hero */}
-      <section className="relative min-h-[340px] flex items-end bg-navy-dark overflow-hidden">
+      <Reveal className="relative min-h-[340px] flex items-end bg-navy-dark overflow-hidden">
         <img
           src={sermon.image}
           alt={sermon.title}
@@ -57,7 +58,7 @@ export default function PredicacionDetail() {
             <span>👁 {sermon.views.toLocaleString('es-AR')} vistas</span>
           </div>
         </div>
-      </section>
+      </Reveal>
 
       {/* Content */}
       <div className="max-w-4xl mx-auto px-4 sm:px-6 py-12 w-full flex-1">

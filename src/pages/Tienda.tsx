@@ -1,3 +1,4 @@
+import Reveal from '../components/Reveal';
 import { useEffect, useState } from "react"
 import Navbar from "../components/Navbar"
 import Footer from "../components/Footer"
@@ -47,7 +48,7 @@ export default function Tienda() {
   return (
     <div className="min-h-screen flex flex-col">
       <Navbar />
-      <section className="bg-navy-dark text-white p-10">
+      <Reveal className="bg-navy-dark text-white p-10">
         <div className="max-w-6xl mx-auto">
           <p className="text-brand">Tienda online</p>
           <h1 className="text-4xl font-bold mt-2">
@@ -57,7 +58,7 @@ export default function Tienda() {
             Libros impresos y ebooks. Pagá con Mercado Pago.
           </p>
         </div>
-      </section>
+      </Reveal>
       <main className="max-w-6xl mx-auto w-full p-6 flex-1">
         <div className="flex gap-3 mb-6">
           <input

@@ -1,3 +1,4 @@
+import Reveal from '../components/Reveal';
 import { useEffect, useState } from "react"
 import Navbar from "../components/Navbar"
 import Footer from "../components/Footer"
@@ -60,7 +61,7 @@ export default function Calendario() {
     <div className="min-h-screen flex flex-col">
       <Navbar />
       {/* Hero */}
-      <section className="relative min-h-[300px] flex items-center bg-navy-dark overflow-hidden">
+      <Reveal className="relative min-h-[300px] flex items-center bg-navy-dark overflow-hidden">
         <img
           src={calendarHero}
           alt="Calendario"
@@ -115,7 +116,7 @@ export default function Calendario() {
             </div> 
           </div>
         </div>
-      </section>
+      </Reveal>
       <main className="max-w-6xl mx-auto w-full p-6 flex-1">
         <h2 className="text-2xl font-bold text-navy mb-6 capitalize">
           {monthLabel}
@@ -162,7 +163,7 @@ export default function Calendario() {
             <button
               key={e.id}
               onClick={() => setSelected(e)}
-              className="text-left border rounded-xl p-5 bg-white hover:shadow-md"
+              className="text-left border rounded-xl p-5 bg-white motion-card hover:shadow-md"
             >
               <span className="text-brand text-sm">{e.category}</span>
               <h3 className="font-bold text-navy text-lg">{e.title}</h3>
@@ -179,7 +180,7 @@ export default function Calendario() {
             className="fixed inset-0 z-[60] bg-black/60 flex items-center justify-center p-4"
             onClick={() => setSelected(null)}
           >
-            <section
+            <Reveal
               role="dialog"
               aria-modal="true"
               aria-label={selected.title}
@@ -219,7 +220,7 @@ export default function Calendario() {
                   Acceder a la actividad online
                 </a>
               )}
-            </section>
+            </Reveal>
           </div>
         )}
       </main>

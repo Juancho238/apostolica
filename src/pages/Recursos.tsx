@@ -1,3 +1,4 @@
+import Reveal from '../components/Reveal';
 import { useState } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
 import Navbar from '../components/Navbar';
@@ -63,7 +64,7 @@ export default function Recursos() {
       <Navbar />
 
       {/* Hero */}
-      <section className="relative min-h-[220px] flex items-end bg-navy-dark overflow-hidden">
+      <Reveal className="relative min-h-[220px] flex items-end bg-navy-dark overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-r from-navy-dark/95 to-navy-dark/60" />
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 pb-8 pt-16 w-full">
           <Link to="/predicaciones" className="inline-flex items-center gap-1.5 text-white/50 text-[12px] font-600 hover:text-white transition-colors mb-3">
@@ -75,10 +76,10 @@ export default function Recursos() {
           <h1 className="text-3xl sm:text-4xl font-800 text-white mb-1">Recursos</h1>
           <p className="text-white/60 text-[14px]">Material bíblico para crecer, servir y enseñar.</p>
         </div>
-      </section>
+      </Reveal>
 
       {/* Filter bar */}
-      <section className="bg-white border-b border-border sticky top-[70px] z-40">
+      <Reveal className="bg-white border-b border-border sticky top-[70px] z-40">
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
           <div className="flex items-center gap-1 overflow-x-auto py-3">
             <button
@@ -114,7 +115,7 @@ export default function Recursos() {
             </div>
           </div>
         </div>
-      </section>
+      </Reveal>
 
       {/* Grid */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 py-10 w-full flex-1">
@@ -130,7 +131,7 @@ export default function Recursos() {
               <Link
                 key={r.id}
                 to={`/recursos/${r.id}`}
-                className="group bg-white rounded-xl border border-border overflow-hidden hover:shadow-md transition-all flex flex-col"
+                className="group bg-white rounded-xl border border-border overflow-hidden motion-card hover:shadow-md transition-all flex flex-col"
               >
                 {r.image ? (
                   <div className="h-40 overflow-hidden bg-surface">

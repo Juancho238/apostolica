@@ -1,3 +1,4 @@
+import Reveal from '../components/Reveal';
 import { useEffect, useRef, useState } from 'react';
 import { MapContainer, TileLayer, Marker, Popup, useMap } from 'react-leaflet';
 import L from 'leaflet';
@@ -103,14 +104,14 @@ export default function Iglesias() {
       <Navbar />
 
       {/* Hero */}
-      <section className="relative min-h-[200px] flex items-end bg-navy-dark overflow-hidden">
+      <Reveal className="relative min-h-[200px] flex items-end bg-navy-dark overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-r from-navy-dark/95 to-navy-dark/60" />
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 pb-8 pt-16 w-full">
           <p className="text-brand text-[11px] font-700 uppercase tracking-widest mb-1">Argentina</p>
           <h1 className="text-3xl sm:text-4xl font-800 text-white mb-1">Nuestras Iglesias</h1>
           <p className="text-white/60 text-[14px]">Encontrá la iglesia más cercana a vos.</p>
         </div>
-      </section>
+      </Reveal>
 
       {/* Search */}
       <div className="bg-white border-b border-border">

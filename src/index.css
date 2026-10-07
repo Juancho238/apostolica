@@ -61,3 +61,17 @@ html {
     scroll-behavior: auto;
   }
 }
+/* Subtle public-site interactions. No external animation dependency. */
+.motion-card {
+  transition: translate 220ms ease, box-shadow 220ms ease, border-color 220ms ease;
+}
+@media (hover: hover) and (pointer: fine) {
+  .motion-card:hover { translate: 0 -4px; }
+}
+.motion-card:focus-visible { translate: 0 -4px; }
+@media (prefers-reduced-motion: reduce) {
+  .motion-card, .motion-card:hover, .motion-card:focus-visible {
+    transition: none;
+    translate: none;
+  }
+}

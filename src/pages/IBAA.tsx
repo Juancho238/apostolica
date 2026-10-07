@@ -1,3 +1,4 @@
+import Reveal from '../components/Reveal';
 import GraduatesTable from '../components/GraduatesTable';
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
@@ -51,7 +52,7 @@ export default function IBAA({initialTab = 'Inicio IBAA'}: {initialTab?: string}
       <Navbar />
 
       {/* Hero */}
-      <section className="relative min-h-[300px] flex items-center bg-navy-dark overflow-hidden">
+      <Reveal className="relative min-h-[300px] flex items-center bg-navy-dark overflow-hidden">
         <img
           src="https://images.unsplash.com/photo-1533000971552-6a962ff0b9f9?w=1600&h=600&fit=crop&auto=format"
           alt="Estudio bíblico"
@@ -81,10 +82,10 @@ export default function IBAA({initialTab = 'Inicio IBAA'}: {initialTab?: string}
             </blockquote>
           </div>
         </div>
-      </section>
+      </Reveal>
 
       {/* Sub-nav */}
-      <section className="bg-white border-b border-border sticky top-[70px] z-40">
+      <Reveal className="bg-white border-b border-border sticky top-[70px] z-40">
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
           <div role="tablist" aria-label="Secciones del IBAA" className="flex gap-2 overflow-x-auto text-[13px] font-600">
             {TABS.map((item, index) => (
@@ -101,33 +102,33 @@ export default function IBAA({initialTab = 'Inicio IBAA'}: {initialTab?: string}
             ))}
           </div>
         </div>
-      </section>
+      </Reveal>
 
       <main id="ibaa-panel" role="tabpanel" aria-labelledby={`ibaa-tab-${TABS.indexOf(active)}`} tabIndex={0} className="flex-1">
       {active === 'Egresados' && <GraduatesTable />}
-      {active === 'Inicio IBAA' && <section className="max-w-7xl mx-auto px-4 sm:px-6 py-14"><h2 className="text-3xl font-800 text-navy mb-4">Tu formación comienza aquí</h2><p className="text-muted max-w-2xl leading-relaxed">Conocé el Instituto Bíblico de la Asamblea Apostólica, explorá sus niveles de formación y accedé al campus con tu cuenta de alumno.</p><div className="grid md:grid-cols-3 gap-5 mt-8">{[
+      {active === 'Inicio IBAA' && <Reveal className="max-w-7xl mx-auto px-4 sm:px-6 py-14"><h2 className="text-3xl font-800 text-navy mb-4">Tu formación comienza aquí</h2><p className="text-muted max-w-2xl leading-relaxed">Conocé el Instituto Bíblico de la Asamblea Apostólica, explorá sus niveles de formación y accedé al campus con tu cuenta de alumno.</p><div className="grid md:grid-cols-3 gap-5 mt-8">{[
         ['Sobre el IBAA', 'Conocé el propósito de nuestra formación bíblica.'],
         ['Niveles', 'Nivel I, Nivel II, Nivel III y Teología Ministerial.'],
         ['Campus Online', 'Clases, materiales y tareas del nivel que estás cursando.'],
-      ].map(([title, text]) => <button key={title} onClick={() => setActive(title)} className="p-6 text-left rounded-xl bg-surface border border-border hover:border-brand"><h3 className="font-700 text-navy text-lg mb-2">{title}</h3><p className="text-muted text-sm">{text}</p><span className="inline-block mt-4 text-brand">Conocer más →</span></button>)}</div></section>}
-      {active === 'Sobre el IBAA' && <section className="max-w-7xl mx-auto px-4 sm:px-6 py-14"><h2 className="text-3xl font-800 text-navy mb-4">Sobre el IBAA</h2><p className="max-w-3xl text-muted leading-relaxed">El Instituto Bíblico de la Asamblea Apostólica acompaña la formación de alumnos en el conocimiento de la Palabra de Dios, la vida cristiana y el servicio en la iglesia.</p><div className="grid md:grid-cols-3 gap-5 mt-8">{[
+      ].map(([title, text]) => <button key={title} onClick={() => setActive(title)} className="p-6 text-left rounded-xl bg-surface border border-border hover:border-brand"><h3 className="font-700 text-navy text-lg mb-2">{title}</h3><p className="text-muted text-sm">{text}</p><span className="inline-block mt-4 text-brand">Conocer más →</span></button>)}</div></Reveal>}
+      {active === 'Sobre el IBAA' && <Reveal className="max-w-7xl mx-auto px-4 sm:px-6 py-14"><h2 className="text-3xl font-800 text-navy mb-4">Sobre el IBAA</h2><p className="max-w-3xl text-muted leading-relaxed">El Instituto Bíblico de la Asamblea Apostólica acompaña la formación de alumnos en el conocimiento de la Palabra de Dios, la vida cristiana y el servicio en la iglesia.</p><div className="grid md:grid-cols-3 gap-5 mt-8">{[
         ['Conocer la Palabra', 'Profundizar en el estudio de la Biblia y sus enseñanzas.'],
         ['Crecer en la fe', 'Relacionar el aprendizaje bíblico con la vida cotidiana.'],
         ['Prepararse para servir', 'Desarrollar herramientas para acompañar y servir a otros.'],
-      ].map(([title, text]) => <article key={title} className="p-6 rounded-xl bg-surface border border-border"><h3 className="font-700 text-navy mb-3">{title}</h3><p className="text-muted text-sm leading-relaxed">{text}</p></article>)}</div></section>}
-      {active === 'Docentes' && <section className="max-w-7xl mx-auto px-4 sm:px-6 py-14"><h2 className="text-3xl font-800 text-navy mb-4">Docentes</h2><p className="text-muted mb-6">Consultá la información del profesor y los recursos de tus materias dentro del campus, según tu inscripción.</p><div className="p-8 rounded-xl bg-surface border border-border"><h3 className="font-700 text-navy mb-2">Equipo docente</h3><p className="text-muted text-sm">Todavía no se publicó el listado de docentes en esta sección.</p></div><Link to="/campus/login" className="inline-block mt-6 text-brand font-600">Ingresar al campus →</Link></section>}
-      {active === 'Preguntas Frecuentes' && <section className="max-w-3xl mx-auto px-4 sm:px-6 py-14"><h2 className="text-3xl font-800 text-navy mb-6">Preguntas frecuentes</h2><div className="space-y-3">{[
+      ].map(([title, text]) => <article key={title} className="p-6 rounded-xl bg-surface border border-border"><h3 className="font-700 text-navy mb-3">{title}</h3><p className="text-muted text-sm leading-relaxed">{text}</p></article>)}</div></Reveal>}
+      {active === 'Docentes' && <Reveal className="max-w-7xl mx-auto px-4 sm:px-6 py-14"><h2 className="text-3xl font-800 text-navy mb-4">Docentes</h2><p className="text-muted mb-6">Consultá la información del profesor y los recursos de tus materias dentro del campus, según tu inscripción.</p><div className="p-8 rounded-xl bg-surface border border-border"><h3 className="font-700 text-navy mb-2">Equipo docente</h3><p className="text-muted text-sm">Todavía no se publicó el listado de docentes en esta sección.</p></div><Link to="/campus/login" className="inline-block mt-6 text-brand font-600">Ingresar al campus →</Link></Reveal>}
+      {active === 'Preguntas Frecuentes' && <Reveal className="max-w-3xl mx-auto px-4 sm:px-6 py-14"><h2 className="text-3xl font-800 text-navy mb-6">Preguntas frecuentes</h2><div className="space-y-3">{[
         ['¿Cómo obtengo acceso al campus?', 'La administración crea tu cuenta y te envía una invitación por correo. No hay registro público de alumnos.'],
         ['¿Qué contenido puedo ver?', 'El contenido del nivel y año lectivo correspondientes a tu inscripción activa.'],
         ['¿Dónde encuentro los materiales?', 'Ingresá al campus y abrí la materia correspondiente para consultar sus módulos, clases y recursos.'],
         ['¿Cómo entrego una tarea?', 'Desde la clase correspondiente, utilizá la opción de entrega cuando haya una tarea habilitada.'],
         ['¿Qué hago si olvidé mi contraseña?', 'Utilizá la opción para restablecer tu contraseña en la pantalla de ingreso al campus.'],
         ['¿Cómo consulto por inscripción o aranceles?', 'Contactá a la institución para conocer las condiciones del año lectivo.'],
-      ].map(([question, answer]) => <details key={question} className="p-5 rounded-xl border border-border"><summary className="font-600 text-navy cursor-pointer">{question}</summary><p className="text-muted text-sm mt-3 leading-relaxed">{answer}</p></details>)}</div></section>}
-      {active === 'Contacto' && <section className="max-w-7xl mx-auto px-4 sm:px-6 py-14"><h2 className="text-3xl font-800 text-navy mb-4">Contacto IBAA</h2><p className="text-muted max-w-2xl leading-relaxed">Consultá por inscripciones, niveles o acceso al campus. Incluí tu nombre y el motivo de tu consulta en el correo.</p><a href="mailto:ibaa@apostolica.com.ar?subject=Consulta%20IBAA" className="inline-block mt-6 px-6 py-3 rounded-full bg-brand text-white font-600 hover:bg-brand-dark">Escribir a ibaa@apostolica.com.ar →</a></section>}
+      ].map(([question, answer]) => <details key={question} className="p-5 rounded-xl border border-border"><summary className="font-600 text-navy cursor-pointer">{question}</summary><p className="text-muted text-sm mt-3 leading-relaxed">{answer}</p></details>)}</div></Reveal>}
+      {active === 'Contacto' && <Reveal className="max-w-7xl mx-auto px-4 sm:px-6 py-14"><h2 className="text-3xl font-800 text-navy mb-4">Contacto IBAA</h2><p className="text-muted max-w-2xl leading-relaxed">Consultá por inscripciones, niveles o acceso al campus. Incluí tu nombre y el motivo de tu consulta en el correo.</p><a href="mailto:ibaa@apostolica.com.ar?subject=Consulta%20IBAA" className="inline-block mt-6 px-6 py-3 rounded-full bg-brand text-white font-600 hover:bg-brand-dark">Escribir a ibaa@apostolica.com.ar →</a></Reveal>}
       {active === 'Campus Online' && <>
       {/* Campus Online */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 py-14 grid lg:grid-cols-2 gap-12 items-start w-full">
+      <Reveal className="max-w-7xl mx-auto px-4 sm:px-6 py-14 grid lg:grid-cols-2 gap-12 items-start w-full">
         <div>
           <h2 className="text-3xl font-800 text-navy mb-4">Campus Online</h2>
           <p className="text-muted leading-relaxed mb-6 text-[15px]">
@@ -185,17 +186,17 @@ export default function IBAA({initialTab = 'Inicio IBAA'}: {initialTab?: string}
             ))}
           </div>
         </div>
-      </section>
+      </Reveal>
 
       </>}
       {active === 'Niveles' && <>
       {/* Levels */}
-      <section className="bg-surface py-14">
+      <Reveal className="bg-surface py-14">
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
           <h2 className="text-2xl sm:text-3xl font-800 text-navy mb-8 text-center">Carreras y Niveles</h2>
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-5">
             {LEVELS.map((level) => (
-              <div key={level.title} className="bg-white rounded-xl overflow-hidden border border-border hover:shadow-md transition-all group">
+              <div key={level.title} className="bg-white rounded-xl overflow-hidden border border-border motion-card hover:shadow-md transition-all group">
                 <div className="relative h-36 bg-navy overflow-hidden">
                   <img src={level.image} alt={level.title} className="w-full h-full object-cover opacity-50 group-hover:scale-105 transition-transform duration-300" />
                   <div className="absolute bottom-3 left-1/2 -translate-x-1/2">
@@ -216,12 +217,12 @@ export default function IBAA({initialTab = 'Inicio IBAA'}: {initialTab?: string}
             ))}
           </div>
         </div>
-      </section>
+      </Reveal>
 
       </>}
       </main>
       {/* Quote banner */}
-      <section className="py-14 bg-navy-dark relative overflow-hidden">
+      <Reveal className="py-14 bg-navy-dark relative overflow-hidden">
         <img
           src="https://images.unsplash.com/photo-1593485589800-579b43749b15?w=1600&h=400&fit=crop&auto=format"
           alt="Biblia"
@@ -243,7 +244,7 @@ export default function IBAA({initialTab = 'Inicio IBAA'}: {initialTab?: string}
             <p>TRANSFORMAR</p>
           </div>
         </div>
-      </section>
+      </Reveal>
 
       <Footer />
     </div>

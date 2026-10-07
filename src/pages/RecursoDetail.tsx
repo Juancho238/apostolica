@@ -1,3 +1,4 @@
+import Reveal from '../components/Reveal';
 import { useParams, Link } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
@@ -45,7 +46,7 @@ export default function RecursoDetail() {
       <Navbar />
 
       {/* Hero */}
-      <section className="relative min-h-[260px] flex items-end bg-navy-dark overflow-hidden">
+      <Reveal className="relative min-h-[260px] flex items-end bg-navy-dark overflow-hidden">
         {recurso.image ? (
           <img
             src={recurso.image}
@@ -70,7 +71,7 @@ export default function RecursoDetail() {
           </div>
           <h1 className="text-3xl sm:text-4xl font-800 text-white leading-tight">{recurso.title}</h1>
         </div>
-      </section>
+      </Reveal>
 
       {/* Content */}
       <div className="max-w-4xl mx-auto px-4 sm:px-6 py-10 w-full flex-1">

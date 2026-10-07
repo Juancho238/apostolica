@@ -1,3 +1,4 @@
+import Reveal from '../components/Reveal';
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import Navbar from '../components/Navbar';
@@ -17,7 +18,7 @@ export default function Home() {
       <Navbar />
 
       {/* Hero */}
-      <section className="relative min-h-[520px] object-cover flex items-center overflow-hidden bg-navy-dark" style={{ backgroundImage: `url(${imageHero})`, backgroundSize: 'cover', backgroundPosition: 'center', paddingBottom: '50px' }}>
+      <Reveal className="relative min-h-[520px] object-cover flex items-center overflow-hidden bg-navy-dark" style={{ backgroundImage: `url(${imageHero})`, backgroundSize: 'cover', backgroundPosition: 'center', paddingBottom: '50px' }}>
         <img
           src={imageHero}
           content-type="image/webp"
@@ -55,10 +56,10 @@ export default function Home() {
             </div>
           </div>
         </div>
-      </section>
+      </Reveal>
 
       {/* Quick links */}
-      <section className="bg-white border-b border-border py-8 -mt-1 shadow-sm relative z-10">
+      <Reveal className="bg-white border-b border-border py-8 -mt-1 shadow-sm relative z-10">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 grid grid-cols-2 sm:grid-cols-4 gap-4" style={{ minHeight: '150px', width: '90%', marginTop: '-100px', backgroundColor: 'rgb(255, 255, 255)', padding: '20px', borderRadius: '10px' }}  >
           {[
             { icon: '⛪', title: 'Iglesias', desc: 'Encontrá la más cercana', link: '/iglesias', cta: 'Buscar iglesia' },
@@ -66,7 +67,7 @@ export default function Home() {
             { icon: '🤝', title: 'Obras', desc: 'Conocé nuestros proyectos', link: '/#obras', cta: 'Ver más' },
             { icon: '❤️', title: 'Involucrate', desc: 'Servir, orar y dar', link: '/#involucrate', cta: 'Sumate' },
           ].map((item) => (
-            <div key={item.title} className="bg-surface rounded-xl p-5 flex flex-col gap-2 hover:shadow-md transition-shadow text-center" style={{ minHeight: '150px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: '10px' }}>
+            <div key={item.title} className="bg-surface rounded-xl p-5 flex flex-col gap-2 motion-card hover:shadow-md transition-shadow text-center" style={{ minHeight: '150px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: '10px' }}>
               <span className="text-2xl">{item.icon}</span>
               <h3 className="font-700 text-navy text-[15px]">{item.title}</h3>
               <p className="text-muted text-[12px] leading-relaxed">{item.desc}</p>
@@ -76,10 +77,10 @@ export default function Home() {
             </div>
           ))}
         </div>
-      </section>
+      </Reveal>
 
       {/* Historia + imagen */}
-      <section className="py-16 max-w-7xl mx-auto px-4 sm:px-6 grid lg:grid-cols-2 gap-12 items-center" id="nuestra-iglesia">
+      <Reveal className="py-16 max-w-7xl mx-auto px-4 sm:px-6 grid lg:grid-cols-2 gap-12 items-center" id="nuestra-iglesia">
         <div>
           <h2 className="text-3xl sm:text-4xl text-navy mb-5 leading-tight text-[40px]" style={{ fontFamily: 'Roboto', fontWeight: 800, lineHeight: 1.2 }}>
             Una historia de fe,<br />una visión para hoy
@@ -108,10 +109,10 @@ export default function Home() {
             <p className="text-white text-3xl font-700 italic">Sigamos<br />adelante</p>
           </div>
         </div>
-      </section>
+      </Reveal>
 
       {/* Recursos */}
-      <section className="bg-surface py-14">
+      <Reveal className="bg-surface py-14">
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
           <div className="flex flex-wrap items-end justify-between gap-4 mb-8">
             <div>
@@ -126,23 +127,23 @@ export default function Home() {
               { icon: '📰', label: 'Noticias', to: '/blog' },
               { icon: '📅', label: 'Eventos', to: '/#eventos' },
             ].map((r) => (
-              <Link key={r.label} to={r.to} className="bg-white rounded-xl p-5 flex flex-col items-center gap-3 hover:shadow-md transition-shadow">
+              <Link key={r.label} to={r.to} className="bg-white rounded-xl p-5 flex flex-col items-center gap-3 motion-card hover:shadow-md transition-shadow">
                 <span className="text-3xl">{r.icon}</span>
                 <span className="font-600 text-navy text-[14px]">{r.label}</span>
               </Link>
             ))}
           </div>
         </div>
-      </section>
+      </Reveal>
 
       {/* IBAA Banner */}
-      <section className="py-14 max-w-7xl mx-auto px-4 sm:px-6 grid lg:grid-cols-3 gap-6 items-start">
+      <Reveal className="py-14 max-w-7xl mx-auto px-4 sm:px-6 grid lg:grid-cols-3 gap-6 items-start">
         <div className="lg:col-span-2">
           <h2 className="text-2xl sm:text-3xl font-800 text-navy mb-2">Últimos artículos</h2>
           <p className="text-muted text-[14px] mb-6">Enseñanzas y reflexiones para crecer en la fe.</p>
           <div className="grid sm:grid-cols-3 gap-5">
             {latestArticles.map((article) => (
-              <Link key={article.id} to={`/blog/${article.slug}`} className="group bg-white rounded-xl overflow-hidden border border-border hover:shadow-md transition-all">
+              <Link key={article.id} to={`/blog/${article.slug}`} className="group bg-white rounded-xl overflow-hidden border border-border motion-card hover:shadow-md transition-all">
                 <div className="relative overflow-hidden h-40 bg-surface">
                   <img src={article.image} alt={article.title} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" />
                 </div>
@@ -166,10 +167,10 @@ export default function Home() {
             Ingresar al campus →
           </Link>
         </div>
-      </section>
+      </Reveal>
 
       {/* Últimas noticias */}
-      <section className="bg-surface py-14">
+      <Reveal className="bg-surface py-14">
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
           <div className="flex items-center justify-between mb-8">
             <h2 className="text-2xl sm:text-3xl font-800 text-navy">Noticias Destacadas</h2>
@@ -189,7 +190,7 @@ export default function Home() {
             ))}
           </div>
         </div>
-      </section>
+      </Reveal>
 
       {/* Historia Modal */}
       {historyOpen && <HistoryModal onClose={() => setHistoryOpen(false)} />}
@@ -310,7 +311,7 @@ function HistoryModal({ onClose }: { onClose: () => void }) {
 
 function NewsletterBanner() {
   return (
-    <section className="py-12 bg-white border-t border-border">
+    <Reveal className="py-12 bg-white border-t border-border">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center gap-6">
         <div className="w-14 h-14 rounded-full bg-brand/10 flex items-center justify-center shrink-0">
           <span className="text-2xl">✉️</span>
@@ -331,6 +332,6 @@ function NewsletterBanner() {
           </button>
         </div>
       </div>
-    </section>
+    </Reveal>
   );
 }
